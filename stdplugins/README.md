@@ -1,11 +1,11 @@
-## [@SpEcHlDe](https://telegram.dog/ShrimadhaVahdamirhS)
+## [@CRACKERDF](https://telegram.dog/CRACKERDF)
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will work without setting the non-mandatory environment variables.
-- Please report any issues to the support group: [@SpEcHlDe](https://t.me/joinchat/AHAujEjG4FBO-TH-NrVVbg)
+- Please report any issues to the support group: [@CRACKERDF](https://telegram.dog/CRACKERDF)
 
 
 ## design
